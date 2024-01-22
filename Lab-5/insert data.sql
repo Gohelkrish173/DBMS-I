@@ -1,0 +1,6 @@
+--Insert Into Students values(1011,'Keyur','Patel','techonthenet.com','Rajkot','II-BCX')
+--Insert Into Students values(1022,'Hardik','Shah','digminecraft.com','Ahmedabad','I-BCY')
+--Insert Into Students values(1033,'Kajal','Trivedi','bigactivities.com','Baroda','IV-DCX')
+--Insert Into Students values(1044,'Bhoomi','Gajera','checkyourmath.com','Ahmedabad','III-DCW')
+--Insert Into Students(StuId,FirstName,LastName,City,Division) values(1055,'Harmit','Mitel','Rajkot','II-BCY')
+--Insert Into Students(StuId,FirstName,LastName,City,Division) values(1066,'Ashok','Jani','Baroda','II-BCZ')

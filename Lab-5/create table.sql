@@ -1,0 +1,9 @@
+--Create Table Students
+--(
+--	StuId		Int,
+--	FirstName	Varchar(25),
+--	LastName	Varchar(25),
+--	Website		Varchar(50),
+--	City		Varchar(25),
+--	Division	Varchar(20)
+--)

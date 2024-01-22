@@ -1,0 +1,17 @@
+--create table Student_Master(
+--	Studentid	int,
+--	Enr_NO		varchar(20),
+--	Name		varchar(20),
+--	CPI			Decimal(5,2),
+--	JoiningDate	DateTime,
+--	Bklog		int,
+--	CityId		int,
+--	StateName	Varchar(50),
+--)
+
+--create table City_Master(
+--	CityID		int not null,
+--	CityName	Varchar(20),
+--	Pincode		Varchar(10),
+--	STDCode		Varchar(10),
+--)
